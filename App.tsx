@@ -18,9 +18,7 @@ import { HomeScreen } from './src/screens/HomeScreen';
 function App(): React.JSX.Element {
 
   return (
-    <SafeAreaView >
       <HomeScreen />
-    </SafeAreaView>
   );
 }
 
